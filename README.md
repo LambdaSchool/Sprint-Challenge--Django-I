@@ -1,4 +1,4 @@
-# Sprint-Challenge--Django-I
+# Sprint-Challenge--Django-I 
 
 This week we got started with Django, and began making Djorg, a project for
 personal organization applications. To close the week, the challenge is -
